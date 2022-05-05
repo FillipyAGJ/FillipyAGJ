@@ -2,7 +2,7 @@
 - Estou estagiando para D7 Soluções e Agência de Dados.
 - Sou Estudante de Tecnologia em Sistemas para Internet no IFB.
 - Sou formado em Técnico em Desenvolvimento de Sistemas.
-- Amo o que eu faço e correndo atrás cada vez mais do conhecimento!
+- Amo o que eu faço e correndo atrás do conhecimento!
 <!--
 **FillipyAGJ/FillipyAGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
