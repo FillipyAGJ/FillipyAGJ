@@ -1,5 +1,4 @@
 ### E ai! Sou FIllipy 👋
-- Estou estagiando para D7 Soluções e Agência de Dados.
 - Sou Estudante de Tecnologia em Sistemas para Internet no IFB.
 - Sou formado em Técnico em Desenvolvimento de Sistemas.
 - Amo o que eu faço e correndo atrás do conhecimento!
